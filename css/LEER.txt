@@ -1,0 +1,7 @@
+En el archivo style.css puedes cambiar el wallpaper de la pagina web por si el que esta no te gusta, 
+ademas de que puedes cambiar el tipo de fuente. 
+Las demas hojas de estilo son adicionales por si la pagina web se observa desde algun dispositivo android, esta se ajusta
+automaticamente al celular o monitor, jamas se va a desfazar.
+La carpeta images es la que contiene los iconos de la pagina web, cualquier modificacion en el codigo css de style.css en
+cuanto a imagenes se refiera se debe indexar a esa carpeta
+

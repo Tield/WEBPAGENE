@@ -1,0 +1,9 @@
+Esta es la pagina principal, al momento en que la des de alta el archivo index.html sera tu pagina principal, por dar de 
+alta me refiero a subirla a un servidor, dentro de la carpeta css encontraras todas las librerias que uso ademas de otro
+archivo txt para que tengas mejor entendimiento, ademas de que en cada archivo HTML separe en comentarios la seccion que 
+referencia cada linea de codigo, en la carpeta js deje guardados los frameworks por si en algun punto quisieras escalar 
+la pagina web a no ser solo de caracter informativo ya que con ellos podras realizar consultas en tiempo real y otras 
+cosas, de momento no hace falta incluirla ya que las animaciones estan realizadas a base de HTML y CSS, si deseas
+modificar alguna imagen dirigete a la carpeta images y cambia el link en cada linea de codigo, las imagenes las encuentras
+con la linea de codigo <a href=""> </a> 
+En caso de la informacion de texto la encuentras entre los <p> </p>
